@@ -1,12 +1,21 @@
 # Mohasebe_Deltab2-4ac
-این برنامه به زبان پایتون ، یک معادله درجه 2 را حساب میکند . این پروژه برای مفاهیم پایه پایتون ، عملیات ریاضی و شرط ها مناسب است.
-این پروژه 3 ورودی از کاربر دریافت میکند ، با استفاده از فرمول (Δ = b² - 4ac) دلتا (معادله درجه 2) را حساب میکند .
-در این پروژه هر 3 ورودی از قبل مشخص شده برنامه جوری طراحی شده که با استفاده از (input) حتی از کاربر هم میتواند 3 عدد رو به دلخواه دریافت کند . 
-بر اساس مقدار دلتا ، نوع ریشه ها مشخص می گردد .
-Δ > 0 → دو ریشه متفاوت
-Δ = 0 → یک ریشه واقعی
-Δ < 0 → دو ریشه مختلط
-چزا این پروژه کاربردی و مفید است ؟ 
-به دلیل یادگیری سینتکس پایه پایتون و عملیات ریاضی 
-آشنایی استفاده از شرط ها برای بررسی نوع ریشه ها
-پایه ای برای پروژه های پیشرفته تر در برنامه نویسی ریاضی و علمی 
+This Python program calculates a quadratic equation. This project is suitable for learning basic Python concepts, mathematical operations, and conditional statements.
+
+The program takes three inputs from the user and calculates the discriminant (Δ = b² - 4ac) of the quadratic equation.
+
+In this project, the three inputs are predefined, but the program is also designed so that the user can enter any three numbers using the input function.
+
+Based on the value of the discriminant, the type of roots is determined.
+
+
+Δ > 0 → Two different roots
+Δ = 0 → One real root
+Δ < 0 → Two complex roots
+
+Why is this project useful and practical?
+
+* Because it helps in learning the basic Python syntax and mathematical operations.
+
+* It provides practice with using conditional statements to check the type of roots.
+
+* It serves as a foundation for more advanced projects in mathematical and scientific programming.
